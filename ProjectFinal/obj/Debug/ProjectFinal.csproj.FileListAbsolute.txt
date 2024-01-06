@@ -1,0 +1,13 @@
+C:\Users\Pritom Majumdar\Desktop\Project Final\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe.config
+C:\Users\Pritom Majumdar\Desktop\Project Final\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe
+C:\Users\Pritom Majumdar\Desktop\Project Final\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.pdb
+C:\Users\Pritom Majumdar\Desktop\Project Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.AssemblyReference.cache
+C:\Users\Pritom Majumdar\Desktop\Project Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.Properties.Resources.resources
+C:\Users\Pritom Majumdar\Desktop\Project Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.GenerateResource.cache
+C:\Users\Pritom Majumdar\Desktop\Project Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\Pritom Majumdar\Desktop\Project Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.exe
+C:\Users\Pritom Majumdar\Desktop\Project Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.pdb
+C:\Users\Pritom Majumdar\Desktop\Project Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.Form_Admin.resources
+C:\Users\Pritom Majumdar\Desktop\Project Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.Form_Information.resources
+C:\Users\Pritom Majumdar\Desktop\Project Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.Form_User.resources
+C:\Users\Pritom Majumdar\Desktop\Project Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.Form_Login.resources
